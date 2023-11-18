@@ -1,4 +1,5 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+En la rama main se encuentra el contador
+En la rama box-object-model se encuentra el Box Object Model, Position y Flex Layout (los 3 bloques principales para el diseño de aplicaciones en React Native)
 
 # Getting Started
 
