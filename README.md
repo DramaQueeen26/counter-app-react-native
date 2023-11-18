@@ -1,5 +1,6 @@
-En la rama main se encuentra el contador
-En la rama box-object-model se encuentra el Box Object Model, Position y Flex Layout (los 3 bloques principales para el diseño de aplicaciones en React Native)
+En la rama **main** se encuentra el contador
+
+En la rama **box-object-model** se encuentra el Box Object Model, Position y Flex Layout (los 3 bloques principales para el diseño de aplicaciones en React Native)
 
 # Getting Started
 
